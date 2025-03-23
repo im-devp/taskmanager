@@ -8,11 +8,8 @@ VERSION = '2.0.1'
 PREFIX = 'i.'
 # Scopes: bot and applications.commands
 # Bot permissions: Manage Roles, Add Reactions and Use Slash Commands
-INVITE_LINK = ('https://discord.com/api/oauth2/authorize?'
-               'client_id=578039213287538701&permissions=2415919168&'
-               'scope=bot%20applications.commands')
-
-SOURCE = 'https://github.com/Bernardozomer/ivone-bot/'
+INVITE_LINK = ('https://discord.com/oauth2/authorize?client_id=1353272089964187659&permissions=8&integration_type=0&scope=bot+applications.commands')
+SOURCE = 'https://github.com/im-devp/taskmanager'
 
 
 class Colors(enum.Enum):
